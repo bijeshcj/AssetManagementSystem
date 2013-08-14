@@ -1,0 +1,20 @@
+Road Map of AssetManagementSystem
+=================================
+
+User-Interface Tasks
+====================
+AMS-C-1: create a login page through which the user can register/login to the app -- in progress
+
+
+
+
+Server Tasks
+============
+AMS-S-1: create a war through which it will register a user -- in progress
+AMS-S-2: login autentication -- not done
+
+
+Database Tasks
+==============
+
+AMS-D-1: create a table Users with username and password as fields -- in progress

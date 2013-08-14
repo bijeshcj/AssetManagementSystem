@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/ams_login_screen"
+        >
+       <EditText android:name="@+id/la_username"
+                 android:layout_height="wrap_content"
+                 android:layout_width="match_parent"
+                 android:hint="@string/username"
+                 android:singleLine="true"
+
+                 android:layout_centerInParent="true"
+       />
+       <EditText android:name="@+id/la_password"
+                 android:layout_below="@id/la_username"
+                 android:layout_height="wrap_content"
+                 android:layout_width="match_parent"
+                 android:hint="@string/password"
+                 android:singleLine="true"
+                 android:password="true"
+                 />
+
+</RelativeLayout>
