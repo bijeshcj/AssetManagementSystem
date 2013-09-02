@@ -1,14 +1,13 @@
 AMS-C-1
 =======
 
-* use an image for background for login screen -- done
-* create a Username and password edit text -- pending
+1) use an image for background for login screen -- completed
+2) create a Username and password edit text -- completed
      -- align them on center -- in progress
-* create a button to register/login --  done
+3) create a button to register/login --  completed
      -- get the user name and password and create a json and send it to server
      -- if the user name exists open the next screen
            --- else show the registration form
-* create a remember me option -- not done
-* create a logout button -- not done
-* design the second screeen -- not done
+4) create a remember me option -- in progress
+     -- center the Remember me button -- not started
 

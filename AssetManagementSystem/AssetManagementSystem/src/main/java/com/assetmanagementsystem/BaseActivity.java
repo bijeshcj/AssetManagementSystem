@@ -5,7 +5,7 @@ import android.app.Activity;
 import android.view.Menu;
 
 public class BaseActivity extends Activity {
-
+    protected static String TAG = "AssetMangSystem";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
